@@ -1,0 +1,8 @@
+{
+    "globs": ["**/*.md"],
+    "ignores": ["**/node_modules/**"],
+    "config": {
+        // Let prose and package tables wrap to the reader's screen width.
+        "MD013": false
+    }
+}
